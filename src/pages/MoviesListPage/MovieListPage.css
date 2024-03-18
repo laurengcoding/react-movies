@@ -1,0 +1,10 @@
+.movieInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    max-width: 400px;
+    row-gap: 100px;
+    
+}
